@@ -1,6 +1,6 @@
 - Hello, World 
 - I’m @3ll10t-br
-- I’m currently studiyng Cybersecurity
+- I’m currently studying Cybersecurity
 - I’m looking to collaborate sharing my journey and some write-ups
 
 <!---
