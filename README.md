@@ -1,5 +1,5 @@
 - Hello, World 
-- I’m @3ll10t-br | eJPT
+- I’m @3ll10t-br | eJPT certified
 - I’m currently studying Cybersecurity and Digital Investigation
 - I’m looking to collaborate sharing my journey and some write-ups
 
