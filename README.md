@@ -1,6 +1,6 @@
 - Hello, World 
 - I’m @3ll10t-br | eJPT certified
-- I’m currently studying and working Pentesting, Pentest Mobile and also starting with DevSecOps and Code Review.
+- I’m currently studying and working Pentesting.
 - I’m looking to collaborate sharing my journey and some write-ups.
 
 <div>
